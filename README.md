@@ -1,0 +1,2 @@
+# machine_learning_with_python
+Pythonではじめる機械学習(オライリー)の写経をする
